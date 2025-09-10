@@ -58,6 +58,8 @@ Then load dist/ into Firefox:
 
 ## 🎥 Demo
 
+Here is how the v1 extension looks (Firefox temporary install) :
+
 ![Clippin demo](./extension/assets/demo.gif)
 
 ---
