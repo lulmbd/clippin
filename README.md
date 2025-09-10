@@ -1,2 +1,3 @@
-# clippin
-Web extension to pin anything from ChatGPT (prompts, responses). Create your own folders and organize your pins for easy find. 
+# Clippin
+
+Web extension to pin anything from ChatGPT (prompts, responses). Create your own folders and organize your pins for easy find.
