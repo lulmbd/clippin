@@ -109,3 +109,16 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 Ludivine Lombardi
 GitHub: @lulmbd
+
+---
+
+## 📦 Assets & Licenses
+
+This project uses some icons from [Twitter Twemoji](https://github.com/twitter/twemoji):
+
+- Graphics Title: 270f.svg (and others for pin, folder, trash, etc.)
+- Graphics Author: Copyright 2020 Twitter, Inc and other contributors
+- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg
+- Graphics License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Other assets (logo, Clippin icon) are custom-made by the author.
