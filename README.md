@@ -114,9 +114,9 @@ GitHub: @lulmbd
 
 ## 📦 Assets & Licenses
 
-This project uses some icons from [Twitter Twemoji](https://github.com/twitter/twemoji):
+This project uses some icons from [Twitter Twemoji](https://github.com/twitter/twemoji) :
 
-- Graphics Title: 270f.svg (and others for pin, folder, trash, etc.)
+- Graphics Title: 270f.svg (pencil icon), 1f4cc.svg (pin icon), 1f5d1.svg (trash icon), 1f4c1.svg (folder icon)
 - Graphics Author: Copyright 2020 Twitter, Inc and other contributors
 - Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg
 - Graphics License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
