@@ -1,3 +1,5 @@
+// Built with Vite. Source is in /src, compiled build is in /dist.
+
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import svgr from "vite-plugin-svgr";
@@ -7,7 +9,6 @@ export default defineConfig({
     react(),
     svgr({
       svgrOptions: {
-        // Optionnel : export en composant, conserve viewBox
         icon: true,
       },
     }),
